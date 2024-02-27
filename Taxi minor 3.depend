@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1654721118 source:c:\users\bachu sai raj\documents\c\taxi\choose mode.c
+	"choose mode.h"
+	<stdio.h>
+	"fare.h"
+
+1654720988 c:\users\bachu sai raj\documents\c\taxi\choose mode.h
+
+1654720826 c:\users\bachu sai raj\documents\c\taxi\fare.h
+
+1654769359 source:c:\users\bachu sai raj\documents\c\taxi\choose.c
+	"choose.h"
+	<stdio.h>
+
+1654717921 c:\users\bachu sai raj\documents\c\taxi\choose.h
+
+1654720252 source:c:\users\bachu sai raj\documents\c\taxi\fare.c
+	"fare.h"
+	<stdio.h>
+
+1654771248 source:c:\users\bachu sai raj\documents\c\taxi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"places.h"
+	"choose.h"
+	"mode.h"
+	"fare.h"
+	"choose mode.h"
+
+1654717921 c:\users\bachu sai raj\documents\c\taxi\places.h
+
+1654716671 c:\users\bachu sai raj\documents\c\taxi\mode.h
+
+1654718847 source:c:\users\bachu sai raj\documents\c\taxi\mode.c
+	"mode.h"
+	<stdio.h>
+
+1654719093 source:c:\users\bachu sai raj\documents\c\taxi\places.c
+	"places.h"
+	<stdio.h>
+
